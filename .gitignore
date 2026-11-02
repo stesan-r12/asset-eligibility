@@ -1,0 +1,22 @@
+### Build output ###
+target/
+out/
+build/
+
+### Maven wrapper (keep the wrapper files, ignore downloaded distribution) ###
+!.mvn/wrapper/maven-wrapper.properties
+
+### IDEs ###
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+
+### OS ###
+.DS_Store
+Thumbs.db
